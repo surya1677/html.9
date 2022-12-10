@@ -323,10 +323,10 @@ tr:nth-child(odd){
 </div>
 <hr width="15%" align="left">
 <ul>
-<li><a href="#name">Name-mahanandi</a></li><br>
+<li><a href="#name of the student">Name-mahanandi</a></li><br>
 <li><a href="#roll no">Roll.no-k22jl24</a></li><br>
 <li><a href="#group">Group-1</a></li><br>
-<li><a href="#programme">Programme- CSE</a></li><br>
+<li><a href="#programme name">Programme- CSE</a></li><br>
 </ul>
 </body>
 </html>
